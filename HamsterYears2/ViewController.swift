@@ -9,7 +9,19 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    @IBOutlet weak var humanYears: UITextField!
+    
+    @IBOutlet weak var hamsterYears: UILabel!
+    
+    @IBAction func submitPressed(_ sender: Any) {
+        
+        if let tempVar = humanYears.text {
+            
+            hamsterYears.text = String(Int (tempVar)! * 26)
+        }
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.

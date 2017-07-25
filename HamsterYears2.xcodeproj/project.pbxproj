@@ -12,6 +12,7 @@
 		69B9AD091F27C3AE0080A8E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69B9AD071F27C3AE0080A8E2 /* Main.storyboard */; };
 		69B9AD0B1F27C3AE0080A8E2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69B9AD0A1F27C3AE0080A8E2 /* Assets.xcassets */; };
 		69B9AD0E1F27C3AE0080A8E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69B9AD0C1F27C3AE0080A8E2 /* LaunchScreen.storyboard */; };
+		69B9AD161F27C4F60080A8E2 /* 2554824405_667c082ded_o.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 69B9AD151F27C4F60080A8E2 /* 2554824405_667c082ded_o.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		69B9AD0A1F27C3AE0080A8E2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		69B9AD0D1F27C3AE0080A8E2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		69B9AD0F1F27C3AE0080A8E2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		69B9AD151F27C4F60080A8E2 /* 2554824405_667c082ded_o.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 2554824405_667c082ded_o.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				69B9AD031F27C3AE0080A8E2 /* AppDelegate.swift */,
 				69B9AD051F27C3AE0080A8E2 /* ViewController.swift */,
 				69B9AD071F27C3AE0080A8E2 /* Main.storyboard */,
+				69B9AD151F27C4F60080A8E2 /* 2554824405_667c082ded_o.jpg */,
 				69B9AD0A1F27C3AE0080A8E2 /* Assets.xcassets */,
 				69B9AD0C1F27C3AE0080A8E2 /* LaunchScreen.storyboard */,
 				69B9AD0F1F27C3AE0080A8E2 /* Info.plist */,
@@ -126,6 +129,7 @@
 				69B9AD0E1F27C3AE0080A8E2 /* LaunchScreen.storyboard in Resources */,
 				69B9AD0B1F27C3AE0080A8E2 /* Assets.xcassets in Resources */,
 				69B9AD091F27C3AE0080A8E2 /* Main.storyboard in Resources */,
+				69B9AD161F27C4F60080A8E2 /* 2554824405_667c082ded_o.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
